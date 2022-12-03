@@ -17,7 +17,7 @@ No momento estou me formando para ser um desenvolvedor Full-Stack!
   <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    <img align="center" alt="bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
    <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-   <img align="center" width="40" alt="svgImg" src=./gif/icons8-github.gif>
+   <img align="center" width="40" alt="GitHub" src="./icon/github.png" >
 
   ##
  
