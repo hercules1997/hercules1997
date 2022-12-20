@@ -1,7 +1,7 @@
 
 ## Olá, sejam bem vindos a minha área de códigos.
 <br>
-Eu sou o Hercules Chaves Andrade, criador de conteúdo de desenvolvimento Front-End!
+Eu sou o Hércules Chaves Andrade, criador de conteúdo de desenvolvimento Front-End!
 Aqui você pode conhecer meus projetos.
 No momento estou me formando para ser um desenvolvedor Full-Stack!
 <br>
@@ -13,7 +13,7 @@ No momento estou me formando para ser um desenvolvedor Full-Stack!
   <a href="https://www.linkedin.com/in/h%C3%A9rcules-chaves-andrade-4a2594238/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
  <hr>
-<h3>Tecnologias</h3>
+<h3>Habilidades</h3>
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
