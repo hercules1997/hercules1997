@@ -11,6 +11,7 @@ No momento estou me formando para ser um desenvolvedor Full-Stack!
   <a href="https://instagram.com/hercules_c_andrade" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:hercules.chaves.andrade@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
   <a href="https://www.linkedin.com/in/h%C3%A9rcules-chaves-andrade-4a2594238/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+   <a href="https://api.whatsapp.com/send?phone=5511958457590" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-%25d366?style=for-the-badge&logo=WhatsApp&logoColor=white" target="_blank"></a> 
 </div>
  <hr>
 <h3>Habilidades</h3>
@@ -27,6 +28,6 @@ No momento estou me formando para ser um desenvolvedor Full-Stack!
   <hr>
  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hercules1997&bg_color=00000000)](https://github.com/hecules1997/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hercules1997&bg_color=00000000)](https://github.com/hercules1997/github-readme-stats)
 <br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hercules1997&show_icons=true&theme=radical)
