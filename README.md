@@ -14,7 +14,7 @@ No momento estou me formando para ser um desenvolvedor Full-Stack!
    <a href="https://api.whatsapp.com/send?phone=5511958457590" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-%25d366?style=for-the-badge&logo=WhatsApp&logoColor=white" target="_blank"></a> 
 </div>
  <hr>
-<h3>Habilidades</h3>
+<h3>Skills</h3>
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
