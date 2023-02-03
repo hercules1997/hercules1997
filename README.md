@@ -1,7 +1,7 @@
 
-## Olá, sejam bem vindos a minha área de códigos.
+## Olá, bem-vindos a minha área de projetos!
 <br>
-Eu sou o Hércules Chaves Andrade, criador de conteúdo de desenvolvimento Front-End!
+Sou Hércules Chaves Andrade, criador de conteúdo de desenvolvimento Front-End!
 Aqui você pode conhecer meus projetos.
 No momento estou me formando para ser um desenvolvedor Full-Stack!
 <br>
