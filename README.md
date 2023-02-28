@@ -29,5 +29,4 @@ No momento estou me formando para ser um desenvolvedor Full-Stack!
  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hercules1997&bg_color=00000000)](https://github.com/hercules1997/github-readme-stats)
-<br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hercules1997&show_icons=true&theme=radical)
