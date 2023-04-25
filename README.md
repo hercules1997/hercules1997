@@ -1,9 +1,13 @@
 
 ## Olá, bem-vindos a minha área de projetos!
 <br>
-Sou Hércules Chaves Andrade, criador de conteúdo de desenvolvimento Front-End!
-Aqui você pode conhecer meus projetos.
-No momento estou me formando para ser um desenvolvedor Full-Stack!
+Olá, meu nome é Hércules Chaves e sou um desenvolvedor FRONT-END em transição de carreira da área militar para a área de tecnologia. Estou constantemente me capacitando e me dedicando a aprender novas habilidades para me tornar um desenvolvedor FULL-STACK completo.
+
+Minha paixão pelo desenvolvimento me motiva a criar projetos inovadores, encontrar soluções para problemas e superar desafios, pois acredito que essa é a melhor forma de crescer profissionalmente.
+
+Atualmente, estou cursando a formação Full-Stack PRO na instituição Dev Club, onde tenho a oportunidade de aplicar todo o conhecimento adquirido em projetos reais. Além disso, também trabalho como freelancer na criação de páginas e construção de lojas virtuais.
+
+Estou animado em seguir minha carreira na área de tecnologia e continuar aprendendo e evoluindo como desenvolvedor.
 <br>
 <br>
 
