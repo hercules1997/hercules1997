@@ -1,7 +1,7 @@
 <h2 align="left">Olá 👋! Seja bem-vindo ao meu repositório!</h2>
 
 
- <img align="right" style="margin-top: 30px; opacity: 0.8" height="150" src="https://3.bp.blogspot.com/-u_IGzz98t5s/XD-OvhbDHDI/AAAAAAAABDc/LqZvsOV1kcEqcISCJvJcTwPd84pVH5ffwCK4BGAYYCw/s1600/gif_boy_laptop_computer_hg_blk4.gif"  />
+ <img align="right" style="margin-top: 30px; opacity: 0.8" height="150" src="./icon/avatarCode.gif"  />
 
 ###
 
