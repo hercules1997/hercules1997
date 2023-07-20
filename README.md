@@ -1,13 +1,16 @@
 
 ## Olá, bem-vindos a minha área de projetos!
 <br>
-Olá, meu nome é Hércules Chaves e sou um desenvolvedor FRONT-END em transição de carreira da área militar para a área de tecnologia. Estou constantemente me capacitando e me dedicando a aprender novas habilidades para me tornar um desenvolvedor FULL-STACK completo.
+Olá, meu nome é Hércules Chaves e sou um desenvolvedor FULL-STACK com especialidade em FRONT-END em transição de carreira da área militar para a área de tecnologia. Estou constantemente me capacitando e me dedicando a aprender novas habilidades para me tornar um desenvolvedor FULL-STACK completo.
+<br>
 
 Minha paixão pelo desenvolvimento me motiva a criar projetos inovadores, encontrar soluções para problemas e superar desafios, pois acredito que essa é a melhor forma de crescer profissionalmente.
 
-Atualmente, estou cursando a formação Full-Stack PRO na instituição Dev Club, onde tenho a oportunidade de aplicar todo o conhecimento adquirido em projetos reais. Além disso, também trabalho como freelancer na criação de páginas e construção de lojas virtuais.
+Atualmente, estou cursando bacharelado em Engenharia da Computação na UNIVESP e uma formação Full-Stack PRO na instituição Dev Club, onde tenho a oportunidade de aplicar todo o conhecimento adquirido em projetos reais. Além disso, também trabalho como freelancer na criação de páginas e construção de lojas virtuais.
 
 Estou animado em seguir minha carreira na área de tecnologia e continuar aprendendo e evoluindo como desenvolvedor.
+ 
+
 <br>
 <br>
 
@@ -18,7 +21,7 @@ Estou animado em seguir minha carreira na área de tecnologia e continuar aprend
    <a href="https://api.whatsapp.com/send?phone=5511958457590" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-%25d366?style=for-the-badge&logo=WhatsApp&logoColor=white" target="_blank"></a> 
 </div>
  <hr>
-<h3>Skills</h3>
+<h3>Tecnologias que tenho conhecimento:</h3>
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -27,7 +30,11 @@ Estou animado em seguir minha carreira na área de tecnologia e continuar aprend
    <img align="center" alt="bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
    <img align="center" alt="nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
    <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+<img align="center" alt="docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
    <img align="center" width="40" alt="GitHub" src="./icon/github.png" >
+  <img align="center" alt="php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img align="center" alt="mongodb" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
+   <img align="center" alt="Material-UI" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg">
 </div>
   <hr>
  
