@@ -13,7 +13,7 @@ Estou animado em seguir minha carreira na área de tecnologia e continuar aprend
 <br>
 <br>
 
-<hr>
+<!-- <hr>
 
 <h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
@@ -63,7 +63,7 @@ Estou animado em seguir minha carreira na área de tecnologia e continuar aprend
 
 <img src="https://raw.githubusercontent.com/hercules1997/hercules1997/output/snake.svg" alt="Snake animation" />
 
-###
+### -->
 
 <hr>
 
