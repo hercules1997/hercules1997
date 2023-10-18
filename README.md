@@ -46,4 +46,9 @@ Estou animado em seguir minha carreira na área de tecnologia e continuar aprend
    <div align="center" >
      <img src="https://github-profile-trophy.vercel.app/?username=hercules1997&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
   </div>
+
+  <hr>
+  
+  [![Visitas ao Perfil](https://img.shields.io/github/followers/hercules1997?label=Visitas&style=social)](https://github.com/hercules1997)
+
   <hr>
