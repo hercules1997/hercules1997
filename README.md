@@ -48,7 +48,11 @@ Estou animado em seguir minha carreira na área de tecnologia e continuar aprend
   </div>
 
   <hr>
-  
+
+  <div align="center" >
+  <br>
+
   [![Visitas ao Perfil](https://img.shields.io/github/followers/hercules1997?label=Visitas&style=social)](https://github.com/hercules1997)
+  </div>
 
   <hr>
