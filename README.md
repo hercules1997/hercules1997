@@ -7,14 +7,14 @@
 
 <p>
 <br>
-Sou o Hércules Chaves, desenvolvedor FULL-STACK com especialidade em FRONT-END em transição de carreira da área militar para a área de tecnologia. Estou constantemente me capacitando e me dedicando a aprender novas habilidades para me tornar um desenvolvedor FULL-STACK completo.
+👋 Olá! Sou o Hércules Chaves, um desenvolvedor Full-Stack com foco especial em Front-End. Iniciei minha jornada na área de tecnologia após uma carreira na área militar e estou em constante busca de conhecimento para me tornar um desenvolvedor Full-Stack completo.
 <br>
 
-Minha paixão pelo desenvolvimento me motiva a criar projetos inovadores, encontrar soluções para problemas e superar desafios, pois acredito que essa é a melhor forma de crescer profissionalmente.
+💡 Minha paixão pelo desenvolvimento me impulsiona a criar projetos inovadores, encontrar soluções para desafios e crescer profissionalmente. Acredito que é através desses desafios que podemos evoluir.
 
-Atualmente, estou cursando bacharelado em Engenharia da Computação na UNIVESP e uma formação Full-Stack PRO na instituição Dev Club, onde tenho a oportunidade de aplicar todo o conhecimento adquirido em projetos reais. Além disso, também trabalho como freelancer na criação de páginas e construção de lojas virtuais.
+📚 Atualmente, estou cursando Engenharia da Computação na UNIVESP e me aprimorando com uma formação Full-Stack PRO no Dev Club. Tenho a oportunidade de aplicar meu conhecimento em projetos reais e, além disso, trabalhar como freelancer, criando páginas web e lojas virtuais.
 
-Estou animado em seguir minha carreira na área de tecnologia e continuar aprendendo e evoluindo como desenvolvedor.
+🚀 Estou aquecido em seguir minha carreira na área de tecnologia, continuando a aprender e evoluir como desenvolvedor. Vamos construir coisas incríveis juntos!
 <div> 
   <a href="https://instagram.com/hercules_c_andrade" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:hercules.chaves.andrade@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
