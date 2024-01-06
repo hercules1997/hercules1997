@@ -6,15 +6,35 @@
 ###
 
 <p>
-<br>
-👋 Olá! Sou o Hércules Chaves, um desenvolvedor Full-Stack com foco especial em Front-End. Iniciei minha jornada na área de tecnologia após uma carreira na área militar e estou em constante busca de conhecimento para me tornar um desenvolvedor Full-Stack completo.
-<br>
+Olá, 👋! Sou Hércules Chaves, um desenvolvedor FULL-STACK com especialidade no FRONT-END e empenhado em transformar minha jornada militar em uma empolgante carreira tecnológica. 🌐✨
 
-💡 Minha paixão pelo desenvolvimento me impulsiona a criar projetos inovadores, encontrar soluções para desafios e crescer profissionalmente. Acredito que é através desses desafios que podemos evoluir.
+Sobre minha jornada:
 
-📚 Atualmente, estou cursando Engenharia da Computação na UNIVESP e me aprimorando com uma formação Full-Stack PRO no Dev Club. Tenho a oportunidade de aplicar meu conhecimento em projetos reais e, além disso, trabalhar como freelancer, criando páginas web e lojas virtuais.
+🛠️ Especialidade em Front-End: Minha paixão pelo desenvolvimento impulsiona-me a criar projetos inovadores e a encontrar soluções para desafios complexos.
+Experiência Profissional:
+
+💂‍♂️ Exército Brasileiro: Na estabelecida instituição, exerço minha função na esfera administrativa como Gestor de Protocolos Documentais, além de atuar como Auxiliar da Assessoria de Gestão de Processos e Riscos. Também desempenho um papel vital na área de Tecnologia da Informação.
+
+💼 Freelancer com Propósito: Além dos estudos, atuo como freelancer, contribuindo na criação de páginas e construção de lojas virtuais, ganhando experiência prática em diversos ambientes profissionais.
+
+Tecnologias que domino:
+
+🌐 Front-End: HTML5, CSS3, JavaScript, TypeScript, ReactJS, Bootstrap, Styled-Components, Material UI.
+
+🖥️ Back-End: NodeJS, Express, PostgreSQL, Docker, Sequelize, MongoDB, Java, Spring Boot.
+
+🔄 Versionamento e Colaboração: Git, Github.
+
+📦 Outras Ferramentas: API Rest, RESTFULL.
+
+Próximos Passos:
+
+Estou entusiasmado para seguir minha carreira na área de tecnologia, pronto para enfrentar novos desafios e continuar aprendendo. Acredito que a evolução constante é crucial para o sucesso como desenvolvedor.
+
+Se você busca um profissional dedicado, apaixonado por tecnologia, com uma base sólida em desenvolvimento FULL-STACK, estou pronto para contribuir com minha energia e habilidades para o sucesso. 💻💡
 
 🚀 Estou aquecido em seguir minha carreira na área de tecnologia, continuando a aprender e evoluir como desenvolvedor. Vamos construir coisas incríveis juntos!
+
 <div> 
   <a href="https://instagram.com/hercules_c_andrade" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:hercules.chaves.andrade@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
@@ -23,7 +43,7 @@
 </div>
 </p>
 <hr>
-<h3>Conhecimento nas tecnologias:</h3>
+<h3>Conhecimento nas tecnologias e flameworks:</h3>
   <div align="center" >
 <a href="https://skillicons.dev"   >
   <img src="https://skillicons.dev/icons?i=git,vscode,javascript,css,html,react,nodejs,java,express,docker,figma,github,materialui,linux,styledcomponents,vercel,vite,bootstrap,maven,sequelize,spring,netlify,mongodb,postgres,discord,linkedin,instagram"/>
