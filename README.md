@@ -39,14 +39,14 @@ Se você busca um profissional dedicado, apaixonado por tecnologia, com uma base
   <a href="https://instagram.com/hercules_c_andrade" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:hercules.chaves.andrade@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
   <a href="https://www.linkedin.com/in/hercules-chaves-andrade/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-   <a href="https://api.whatsapp.com/send?phone=5511958457590" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-%25d366?style=for-the-badge&logo=WhatsApp&logoColor=black" target="_blank"></a> 
+  <a href="https://api.whatsapp.com/send?phone=5511958457590" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-%25d366?style=for-the-badge&logo=WhatsApp&logoColor=black" target="_blank"></a> 
 </div>
 </p>
 <hr>
 <h3>Conhecimento nas tecnologias e flameworks:</h3>
   <div align="center" >
 <a href="https://skillicons.dev"   >
-  <img src="https://skillicons.dev/icons?i=git,vscode,javascript,css,html,react,nodejs,java,express,docker,figma,github,materialui,linux,styledcomponents,vercel,vite,bootstrap,maven,sequelize,spring,netlify,mongodb,postgres,discord,linkedin,instagram"/>
+  <img src="https://skillicons.dev/icons?i=git,vscode,javascript,css,html,react,nodejs,java,express,docker,figma,github,materialui,linux,styledcomponents,vercel,vite,bootstrap,maven,sequelize,spring,netlify,mongodb,postgres,discord,linkedin,instagram,cpp,python"/>
 </a>
 </div>
   <hr>
