@@ -21,7 +21,7 @@ Tecnologias que domino:
 
 🌐 Front-End: HTML5, CSS3, JavaScript, TypeScript, ReactJS, Bootstrap, Styled-Components, Material UI.
 
-🖥️ Back-End: NodeJS, Express, PostgreSQL, Docker, Sequelize, MongoDB, Java, Spring Boot.
+🖥️ Back-End: NodeJS, Express, PostgreSQL, Docker, Sequelize, MongoDB, Java, Spring Boot, Python, C++.
 
 🔄 Versionamento e Colaboração: Git, Github.
 
