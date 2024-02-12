@@ -1,4 +1,4 @@
-<h2 align="left">Olá 👋! Seja bem-vindo(a)!</h2>
+<h2 align="left"><strong>Olá 👋! Seja muito bem-vindo(a)!</strong></h2>
 
 
  <img align="right" style="margin-top: 30px; opacity: 0.8" height="150" src="./icon/code-coding.gif"  />
@@ -6,9 +6,9 @@
 ###
 
 <p>
-Olá, 👋! Sou Hércules Chaves, um desenvolvedor FULL-STACK com especialidade no FRONT-END e empenhado em transformar minha jornada militar em uma empolgante carreira tecnológica. 🌐✨
+Olá, 👋! Sou Hércules Chaves, um desenvolvedor Full Stack e empenhado em transformar minha jornada militar em uma empolgante carreira tecnológica. 🌐✨
 
-Sobre minha jornada:
+<strong>Sobre minha jornada:</strong>
 
 🛠️ Especialidade em Front-End: Minha paixão pelo desenvolvimento impulsiona-me a criar projetos inovadores e a encontrar soluções para desafios complexos.
 Experiência Profissional:
@@ -17,7 +17,7 @@ Experiência Profissional:
 
 💼 Freelancer com Propósito: Além dos estudos, atuo como freelancer, contribuindo na criação de páginas e construção de lojas virtuais, ganhando experiência prática em diversos ambientes profissionais.
 
-Tecnologias que domino:
+<strong>Tecnologias que domino:</strong>
 
 🌐 Front-End: HTML5, CSS3, JavaScript, TypeScript, ReactJS, Bootstrap, Styled-Components, Material UI.
 
@@ -27,13 +27,13 @@ Tecnologias que domino:
 
 📦 Outras Ferramentas: API Rest, RESTFULL.
 
-Próximos Passos:
+<strong>Próximos Passos:</strong>
 
 Estou entusiasmado para seguir minha carreira na área de tecnologia, pronto para enfrentar novos desafios e continuar aprendendo. Acredito que a evolução constante é crucial para o sucesso como desenvolvedor.
 
 Se você busca um profissional dedicado, apaixonado por tecnologia, com uma base sólida em desenvolvimento FULL-STACK, estou pronto para contribuir com minha energia e habilidades para o sucesso. 💻💡
 
-🚀 Estou aquecido em seguir minha carreira na área de tecnologia, continuando a aprender e evoluir como desenvolvedor. Vamos construir coisas incríveis juntos!
+<strong>🚀 Estou aquecido em seguir minha carreira na área de tecnologia, continuando a aprender e evoluir como desenvolvedor. Vamos construir coisas incríveis juntos!</strong>
 
 <div> 
   <a href="https://instagram.com/hercules_c_andrade" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
