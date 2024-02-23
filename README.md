@@ -6,7 +6,7 @@
 ###
 
 <p>
-Olá, 👋! Sou Hércules Chaves, um desenvolvedor Full Stack e empenhado em transformar minha jornada militar em uma empolgante carreira tecnológica. 🌐✨
+Olá, 👋! Sou Hércules Chaves, um desenvolvedor Full Stack e empenhado em transformar minha jornada militar em uma carreira tecnológica. 🌐✨
 
 <strong>Sobre minha jornada:</strong>
 
