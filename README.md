@@ -19,7 +19,7 @@ Experiência Profissional:
 
 <strong>Tecnologias que domino:</strong>
 
-🌐 Front-End: HTML5, CSS3, JavaScript, TypeScript, ReactJS, Bootstrap, Styled-Components, Material UI, Radix
+🌐 Front-End: HTML5, CSS3, JavaScript, TypeScript, ReactJS, Bootstrap, Styled-Components, Material UI, Radix, Figma
 
 🖥️ Back-End: NodeJS, Express, PostgreSQL, Docker, Sequelize, MongoDB, Java, Spring Boot, Python, C++.
 
