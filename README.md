@@ -6,7 +6,7 @@
 ###
 
 <p>
-Olá, 👋! Sou Hércules Chaves Andrade, um desenvolvedor Full Stack e empenhado na carreira tecnológica. 🌐✨
+Olá, 👋! Sou Hércules, um desenvolvedor Full Stack e empenhado na carreira tecnológica. 🌐✨
 
 <strong>Sobre minha jornada:</strong>
 
