@@ -1,7 +1,7 @@
 <h2 align="left"><strong>Seja muito bem-vindo(a)!</strong></h2>
 
 
- <img align="right" style="margin-top: 30px; opacity: 0.8" height="150" src="./icon/code-coding.gif"  />
+
 
 ###
 
