@@ -13,8 +13,6 @@ Olá, 👋! Sou Hércules, um desenvolvedor Full Stack e empenhado na carreira t
 🛠️ Especialidade em Front-End: Minha paixão pelo desenvolvimento impulsiona-me a criar projetos inovadores e a encontrar soluções para desafios complexos.
 Experiência Profissional:
 
-💂‍♂️ Exército Brasileiro: Na estabelecida instituição, exerço minha função na esfera administrativa como Gestor de Protocolos Documentais, além de atuar como Auxiliar da Assessoria de Gestão de Processos e Riscos. Também desempenho um papel vital na área de Tecnologia da Informação.
-
 💼 Freelancer com Propósito: Além dos estudos, atuo como freelancer, contribuindo na criação de páginas e construção de lojas virtuais, ganhando experiência prática em diversos ambientes profissionais.
 
 <strong>Tecnologias que domino:</strong>
